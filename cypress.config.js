@@ -5,5 +5,6 @@ module.exports = defineConfig({
     baseUrl: "https://element-plus.org/zh-CN",
     viewportWidth: 1920,
     viewportHeight: 1080,
+    scrollBehavior: "center",
   },
 });

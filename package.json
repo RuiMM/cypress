@@ -16,5 +16,8 @@
   "description": "",
   "devDependencies": {
     "cypress": "^13.16.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13"
   }
 }
