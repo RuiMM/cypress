@@ -3,7 +3,7 @@
 ## 安装
 
 ```bash
-pnpm install cypress --save-dev
+pnpm install
 ```
 
 ## 启动

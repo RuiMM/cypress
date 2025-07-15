@@ -1,6 +1,7 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
+  projectId: "tc27t9",
   e2e: {
     baseUrl: "https://element-plus.org/zh-CN",
     viewportWidth: 1920,
